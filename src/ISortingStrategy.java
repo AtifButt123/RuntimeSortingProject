@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface ISortingStrategy {
+public interface ISortingStrategy {
+    int[] sort(int[]nums);
 }
